@@ -14,8 +14,8 @@ class ChoiceCenterSerializer(DocumentSerializer):
         fields = '__all__'
     def validate(self, data):
         # Check if username already exists, excluding the current instance (if updating)
-        username = data.get('username')
-        query = ChoiceCenter.objects(username=username)
+        username = data.get('email')
+        query = ChoiceCenter.objects(email=username)
         if self.instance:
             query = query.filter(_id__ne=self.instance._id)
         if query.count():

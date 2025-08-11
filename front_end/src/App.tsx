@@ -7,8 +7,8 @@ import PublicRoute from "./components/PublicRoute"; // ✅ NEW
 
 // Public Pages
 // import Home from "./View/Home";
-import Terms from "./View/Terms";
-import PrivacyPolicy from "./View/Privacy";
+import Terms from "./View/PublicView/Terms";
+import PrivacyPolicy from "./View/PublicView/Privacy";
 // import Login from "./View/Login";
 import Login from "./View/PublicView/Login";
 import Register from "./View/PublicView/Register";
