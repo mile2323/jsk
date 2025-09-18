@@ -12,6 +12,6 @@ class CookieTokenAuthentication(BaseAuthentication):
 
         try:
             token = Token.objects.get(key=token_key)  # MongoEngine query
-            return (token.user, None)  # DRF expects a tuple: (user, auth)
+            return (token.choicecenter, None)  # DRF expects a tuple: (user, auth)
         except Token.DoesNotExist:
             raise AuthenticationFailed('Invalid or expired token')

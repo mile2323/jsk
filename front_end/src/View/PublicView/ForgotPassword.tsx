@@ -23,13 +23,13 @@ function ForgotPassword() {
       if (token) {
         // Reset password
         response = await axios.post<ApiResponse>(
-          `${import.meta.env.VITE_API_URL}/users/reset-password/`,
+          `${import.meta.env.VITE_API_URL}/choiceCenter/reset-password/`,
           { token, password }
         );
       } else {
         // Request password reset
         response = await axios.post<ApiResponse>(
-          `${import.meta.env.VITE_API_URL}/users/forgot-password/`,
+          `${import.meta.env.VITE_API_URL}/choiceCenter/forgot-password/`,
           { email }
         );
       }

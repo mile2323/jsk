@@ -1,6 +1,6 @@
 from django.urls import path
 from .controller.loginLogoutController import LogoutView, RegisterView, LoginView, GoogleLoginView, ForgotPasswordView, ResetPasswordView, UserProfileView,csrf_view,get_current_user
-
+from .controller.centerControllers import center_list, center_detail
 urlpatterns = [
     path('register/', RegisterView.as_view(), name='register'),
     path('login/', LoginView.as_view(), name='login'),
@@ -11,4 +11,6 @@ urlpatterns = [
     path('logout/', LogoutView.as_view(), name='logout'),
     path('csrf/', csrf_view),
     path('get-user/', get_current_user),
+    path('centers-all/<str:uid>/', center_list, name='center-list'),
+    path('centers/<str:pk>/', center_detail, name='center-detail'),
 ]

@@ -284,3 +284,1197 @@ Not Found: /users/get-user/
 "GET //users/get-user/ HTTP/1.1" 404 2130
 Not Found: /users/get-user/
 "GET //users/get-user/ HTTP/1.1" 404 2130
+Watching for file changes with StatReloader
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET //users/get-user/ HTTP/1.1" 404 2130
+"POST //choiceCenter/register/ HTTP/1.1" 201 52
+Not Found: /users/csrf/
+"GET //users/csrf/ HTTP/1.1" 404 2118
+"OPTIONS //users/login/ HTTP/1.1" 200 0
+Not Found: /users/login/
+"POST //users/login/ HTTP/1.1" 404 2122
+Not Found: /users/csrf/
+"GET //users/csrf/ HTTP/1.1" 404 2118
+"OPTIONS //choiceCenter/login/ HTTP/1.1" 200 0
+"POST //choiceCenter/login/ HTTP/1.1" 200 31
+Internal Server Error: /choiceCenter/get-user/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 74, in wrap_attributeerrors
+    yield
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 232, in user
+    self._authenticate()
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 385, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\authentication.py", line 15, in authenticate
+    return (token.user, None)  # DRF expects a tuple: (user, auth)
+            ^^^^^^^^^^
+AttributeError: 'Token' object has no attribute 'user'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 420, in initial
+    self.perform_authentication(request)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 330, in perform_authentication
+    request.user
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 231, in user
+    with wrap_attributeerrors():
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 155, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 78, in wrap_attributeerrors
+    raise exc.with_traceback(info[2])
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 74, in wrap_attributeerrors
+    yield
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 232, in user
+    self._authenticate()
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 385, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\authentication.py", line 15, in authenticate
+    return (token.user, None)  # DRF expects a tuple: (user, auth)
+            ^^^^^^^^^^
+rest_framework.request.WrappedAttributeError: 'Token' object has no attribute 'user'
+"GET //choiceCenter/get-user/ HTTP/1.1" 500 147947
+Internal Server Error: /choiceCenter/get-user/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 74, in wrap_attributeerrors
+    yield
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 232, in user
+    self._authenticate()
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 385, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\authentication.py", line 15, in authenticate
+    return (token.user, None)  # DRF expects a tuple: (user, auth)
+            ^^^^^^^^^^
+AttributeError: 'Token' object has no attribute 'user'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 420, in initial
+    self.perform_authentication(request)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 330, in perform_authentication
+    request.user
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 231, in user
+    with wrap_attributeerrors():
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 155, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 78, in wrap_attributeerrors
+    raise exc.with_traceback(info[2])
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 74, in wrap_attributeerrors
+    yield
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 232, in user
+    self._authenticate()
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 385, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\authentication.py", line 15, in authenticate
+    return (token.user, None)  # DRF expects a tuple: (user, auth)
+            ^^^^^^^^^^
+rest_framework.request.WrappedAttributeError: 'Token' object has no attribute 'user'
+"GET //choiceCenter/get-user/ HTTP/1.1" 500 147947
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\choiceCenter\authentication.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\choiceCenter\authentication.py changed, reloading.
+Watching for file changes with StatReloader
+"GET //choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST //choiceCenter/login/ HTTP/1.1" 200 31
+Internal Server Error: /choiceCenter/get-user/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 422, in __getattr__
+    return getattr(_request, attr)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'choicecenter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py", line 245, in get_current_user
+    'id': str(request.choicecenter.id),
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 424, in __getattr__
+    raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{attr}'")
+AttributeError: 'Request' object has no attribute 'choicecenter'
+"GET //choiceCenter/get-user/ HTTP/1.1" 500 113036
+Internal Server Error: /choiceCenter/get-user/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 422, in __getattr__
+    return getattr(_request, attr)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'choicecenter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py", line 245, in get_current_user
+    'id': str(request.choicecenter.id),
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 424, in __getattr__
+    raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{attr}'")
+AttributeError: 'Request' object has no attribute 'choicecenter'
+"GET //choiceCenter/get-user/ HTTP/1.1" 500 113036
+Internal Server Error: /choiceCenter/get-user/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 422, in __getattr__
+    return getattr(_request, attr)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'choicecenter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py", line 245, in get_current_user
+    'id': str(request.choicecenter.id),
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 424, in __getattr__
+    raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{attr}'")
+AttributeError: 'Request' object has no attribute 'choicecenter'
+"GET //choiceCenter/get-user/ HTTP/1.1" 500 113036
+Internal Server Error: /choiceCenter/get-user/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 422, in __getattr__
+    return getattr(_request, attr)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'choicecenter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py", line 245, in get_current_user
+    'id': str(request.choicecenter.id),
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 424, in __getattr__
+    raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{attr}'")
+AttributeError: 'Request' object has no attribute 'choicecenter'
+"GET //choiceCenter/get-user/ HTTP/1.1" 500 113036
+"GET //choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST //choiceCenter/login/ HTTP/1.1" 200 31
+Internal Server Error: /choiceCenter/get-user/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 422, in __getattr__
+    return getattr(_request, attr)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'choicecenter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py", line 245, in get_current_user
+    'id': str(request.choicecenter.id),
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 424, in __getattr__
+    raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{attr}'")
+AttributeError: 'Request' object has no attribute 'choicecenter'
+"GET //choiceCenter/get-user/ HTTP/1.1" 500 113036
+Internal Server Error: /choiceCenter/get-user/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 422, in __getattr__
+    return getattr(_request, attr)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'choicecenter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py", line 245, in get_current_user
+    'id': str(request.choicecenter.id),
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 424, in __getattr__
+    raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{attr}'")
+AttributeError: 'Request' object has no attribute 'choicecenter'
+"GET //choiceCenter/get-user/ HTTP/1.1" 500 113036
+E:\Manzoor\Jsk\Backend\choiceCenter\models.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /choiceCenter/get-user/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 422, in __getattr__
+    return getattr(_request, attr)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'choicecenter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py", line 245, in get_current_user
+    'id': str(request.choicecenter.id),
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 424, in __getattr__
+    raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{attr}'")
+AttributeError: 'Request' object has no attribute 'choicecenter'
+"GET //choiceCenter/get-user/ HTTP/1.1" 500 113036
+Internal Server Error: /choiceCenter/get-user/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 422, in __getattr__
+    return getattr(_request, attr)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'choicecenter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py", line 245, in get_current_user
+    'id': str(request.choicecenter.id),
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 424, in __getattr__
+    raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{attr}'")
+AttributeError: 'Request' object has no attribute 'choicecenter'
+"GET //choiceCenter/get-user/ HTTP/1.1" 500 113036
+E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /choiceCenter/get-user/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 422, in __getattr__
+    return getattr(_request, attr)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'choicecenter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py", line 246, in get_current_user
+    'id': str(request.choicecenter.id),
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 424, in __getattr__
+    raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{attr}'")
+AttributeError: 'Request' object has no attribute 'choicecenter'
+"GET //choiceCenter/get-user/ HTTP/1.1" 500 113000
+Internal Server Error: /choiceCenter/get-user/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 422, in __getattr__
+    return getattr(_request, attr)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'choicecenter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py", line 246, in get_current_user
+    'id': str(request.choicecenter.id),
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 424, in __getattr__
+    raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{attr}'")
+AttributeError: 'Request' object has no attribute 'choicecenter'
+"GET //choiceCenter/get-user/ HTTP/1.1" 500 113000
+E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /choiceCenter/get-user/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 422, in __getattr__
+    return getattr(_request, attr)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'choicecenter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py", line 246, in get_current_user
+    'id': str(request.choicecenter.id),
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 424, in __getattr__
+    raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{attr}'")
+AttributeError: 'Request' object has no attribute 'choicecenter'
+"GET //choiceCenter/get-user/ HTTP/1.1" 500 113051
+Internal Server Error: /choiceCenter/get-user/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 422, in __getattr__
+    return getattr(_request, attr)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'choicecenter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py", line 246, in get_current_user
+    'id': str(request.choicecenter.id),
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 424, in __getattr__
+    raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{attr}'")
+AttributeError: 'Request' object has no attribute 'choicecenter'
+"GET //choiceCenter/get-user/ HTTP/1.1" 500 113051
+E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /choiceCenter/get-user/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 422, in __getattr__
+    return getattr(_request, attr)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'choicecenter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py", line 249, in get_current_user
+    'id': str(request.choicecenter.id),
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 424, in __getattr__
+    raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{attr}'")
+AttributeError: 'Request' object has no attribute 'choicecenter'
+"GET //choiceCenter/get-user/ HTTP/1.1" 500 113219
+Internal Server Error: /choiceCenter/get-user/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 422, in __getattr__
+    return getattr(_request, attr)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'choicecenter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py", line 249, in get_current_user
+    'id': str(request.choicecenter.id),
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 424, in __getattr__
+    raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{attr}'")
+AttributeError: 'Request' object has no attribute 'choicecenter'
+"GET //choiceCenter/get-user/ HTTP/1.1" 500 113219
+E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py changed, reloading.
+Watching for file changes with StatReloader
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py changed, reloading.
+Watching for file changes with StatReloader
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+Not Found: /choiceCenter/689af22f9d538824dbc4fa05/
+"GET //choiceCenter/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 3744
+E:\Manzoor\Jsk\Backend\choiceCenter\urls.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\choiceCenter\urls.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\choiceCenter\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+Not Found: /choiceCenter/null/
+Not Found: /choiceCenter/689af22f9d538824dbc4fa05/
+"GET //choiceCenter/null/ HTTP/1.1" 404 4097
+"GET //choiceCenter/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 4157
+Not Found: /choiceCenter/null/
+"GET //choiceCenter/null/ HTTP/1.1" 404 4097
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+Not Found: /choiceCenter/null/
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/null/ HTTP/1.1" 404 4097
+Not Found: /choiceCenter/689af22f9d538824dbc4fa05/
+Not Found: /choiceCenter/null/
+"GET //choiceCenter/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 4157
+"GET //choiceCenter/null/ HTTP/1.1" 404 4097
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+Not Found: /choiceCenter/null/
+"GET //choiceCenter/null/ HTTP/1.1" 404 4097
+Not Found: /choiceCenter/689af22f9d538824dbc4fa05/
+"GET //choiceCenter/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 4157
+Not Found: /choiceCenter/null/
+"GET //choiceCenter/null/ HTTP/1.1" 404 4097
+Not Found: /choiceCenter/689af22f9d538824dbc4fa05/
+"GET //choiceCenter/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 4157
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+Not Found: /choiceCenter/null/
+"GET //choiceCenter/null/ HTTP/1.1" 404 4097
+Not Found: /choiceCenter/689af22f9d538824dbc4fa05/
+"GET //choiceCenter/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 4157
+Not Found: /choiceCenter/null/
+"GET //choiceCenter/null/ HTTP/1.1" 404 4097
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+Not Found: /choiceCenter/689af22f9d538824dbc4fa05/
+"GET //choiceCenter/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 4157
+Not Found: /choiceCenter/689af22f9d538824dbc4fa05/
+"GET //choiceCenter/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 4157
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+Not Found: /choiceCenter/689af22f9d538824dbc4fa05/
+"GET //choiceCenter/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 4157
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+Not Found: /choiceCenter/689af22f9d538824dbc4fa05/
+"GET /choiceCenter/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 4157
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+Not Found: /choiceCenter/689af22f9d538824dbc4fa05/
+"GET /choiceCenter/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 4157
+Watching for file changes with StatReloader
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET //choiceCenter/get-user/ HTTP/1.1" 200 78
+Not Found: /choiceCenter/689af22f9d538824dbc4fa05/
+"GET /choiceCenter/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 4157
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+Not Found: /choiceCenter/689af22f9d538824dbc4fa05/
+"GET /choiceCenter/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 4157
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+Not Found: /centers/689af22f9d538824dbc4fa05
+"GET /centers/689af22f9d538824dbc4fa05 HTTP/1.1" 404 2181
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+Not Found: /centers/689af22f9d538824dbc4fa05/
+"GET /centers/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 2184
+E:\Manzoor\Jsk\Backend\choiceCenter\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+Not Found: /centers/689af22f9d538824dbc4fa05/
+"GET /centers/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 2184
+Watching for file changes with StatReloader
+Not Found: /centers-all/689af22f9d538824dbc4fa05/
+"GET /centers-all/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 2196
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+Not Found: /centers-all/689af22f9d538824dbc4fa05/
+"GET /centers-all/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 2196
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+Not Found: /centers-all/689af22f9d538824dbc4fa05/
+"GET /centers-all/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 2196
+Not Found: /centers/689af22f9d538824dbc4fa05/
+"GET /centers/689af22f9d538824dbc4fa05/ HTTP/1.1" 404 2184
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/centers/689af22f9d538824dbc4fa05/ HTTP/1.1" 200 185
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/centers/689af22f9d538824dbc4fa05/ HTTP/1.1" 200 185
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/centers/689af22f9d538824dbc4fa05/ HTTP/1.1" 200 185
+E:\Manzoor\Jsk\Backend\choiceCenter\controller\centerControllers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/centers/689af22f9d538824dbc4fa05/ HTTP/1.1" 200 185
+"GET /choiceCenter/centers/689af22f9d538824dbc4fa05/ HTTP/1.1" 200 185
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/centers/689af22f9d538824dbc4fa05/ HTTP/1.1" 200 185
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/centers/689af22f9d538824dbc4fa05/ HTTP/1.1" 200 185
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/centers/689af22f9d538824dbc4fa05/ HTTP/1.1" 200 185
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/centers/689af22f9d538824dbc4fa05/ HTTP/1.1" 200 185
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/centers/689af22f9d538824dbc4fa05/ HTTP/1.1" 200 185
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET //choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET //choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET //choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET //choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET //choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET //choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 58
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"OPTIONS /choiceCenter/login/ HTTP/1.1" 200 0
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+Not Found: /users/get-user/
+"GET /users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET /users/get-user/ HTTP/1.1" 404 2130
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+Not Found: /users/get-user/
+"GET /users/get-user/ HTTP/1.1" 404 2130
+Not Found: /users/get-user/
+"GET /users/get-user/ HTTP/1.1" 404 2130
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 5484
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2118
+Forbidden: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 403 5015
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 78
+E:\Manzoor\Jsk\Backend\choiceCenter\controller\loginLogoutController.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 95
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 95
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 95
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 95
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 95
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 95
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 95
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 95
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 95
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 95
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 95
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 95
+"GET /choiceCenter/csrf/ HTTP/1.1" 200 30
+"POST /choiceCenter/login/ HTTP/1.1" 200 31
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 95
+"GET /choiceCenter/get-user/ HTTP/1.1" 200 95

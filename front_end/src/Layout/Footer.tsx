@@ -15,7 +15,7 @@ interface FooterProps {
 }
 
 const Footer: React.FC<FooterProps> = ({
-  companyName = 'E ENROLLMENT SYSTEM',
+  companyName = 'E Records Book JSK MILESTONE',
   year = new Date().getFullYear(),
   links = [
     { title: 'Home', url: '/' },
@@ -214,7 +214,7 @@ const Footer: React.FC<FooterProps> = ({
             &copy; {year} {companyName}. All rights reserved.
           </p>
           <p className="text-sm text-white mt-4 md:mt-0">
-            Made with Pushpendra Mahilang ❤️ by {companyName} Team
+            Made with Pushpendra Mahilang ❤️ by Milestone Soft Tech Pvt. Ltd. Team
           </p>
         </div>
       </div>

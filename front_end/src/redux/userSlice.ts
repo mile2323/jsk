@@ -29,7 +29,7 @@ const initialState: UserState = {
 export const fetchUser = createAsyncThunk<UserData>(
   'user/fetchUser',
   async () => {
-    const res = await axios.get<UserData>(`${import.meta.env.VITE_API_URL}/users/get-user/`);
+    const res = await axios.get<UserData>(`${import.meta.env.VITE_API_URL}/choiceCenter/get-user/`);
     return res.data;
   }
 );

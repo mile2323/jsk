@@ -22,7 +22,7 @@ const Header: React.FC = () => {
     location.pathname === path ? activeClasses : "text-gray-700";
 
   return (
-    <header className="bg-white shadow-sm py-4 px-6 flex items-center justify-between sticky top-0 z-50">
+    <header className="bg-gray-800 shadow-sm py-4 px-6 flex items-center justify-between sticky top-0 z-50">
       {/* Left side - Logo */}
       <div className="flex items-center pl-1">
         <Link to="/" className="flex items-center" onClick={closeMenu}>
@@ -31,9 +31,17 @@ const Header: React.FC = () => {
             alt="Company Logo"
             className="h-10 w-auto"
           /> */}
-          <span className="ml-2 text-lg md:text-xl font-semibold text-gray-800">
-            E ENROLLMENT SYSTEM
+          <div className="flex shrink-0 items-center">
+              <img
+                alt="Your Company"
+                src="/company_logo.png"
+                className="h-8 w-auto"
+              />
+          <span className="ml-2 text-lg md:text-xl font-semibold text-white">
+            E Records Book JSK 
           </span>
+            </div>
+
         </Link>
       </div>
 
@@ -53,44 +61,37 @@ const Header: React.FC = () => {
 
       {/* Navigation */}
      <nav
-  className={`${
-    menuOpen ? "block" : "hidden"
-  } absolute top-full left-0 w-full shadow-md md:shadow-none md:static md:flex md:items-center md:space-x-4 md:w-auto`}
-  style={{
-    background:
-      "linear-gradient(90deg, rgba(225, 106, 106, 1) 0%, rgba(212, 111, 229, 1) 42%, rgba(222, 237, 196, 1) 100%)",
-    
-   
-    padding: "0.5rem 1rem",
-    borderRadius: "0.375rem",
-    boxShadow: "0 2px 10px rgba(0, 0, 0, 0.1)",
-    // height: "20px",
-   
-  }}
+  className={`
+    ${menuOpen ? "block" : "hidden"} 
+    absolute top-full left-0 w-full 
+    md:static md:flex md:items-center md:space-x-4 md:w-auto 
+    bg-gradient-to-r from-purple-950 to-orange-400 
+    p-2 rounded-md 
+    shadow-md md:shadow-none
+  `}
 >
-        <Link
-          to="/home"
-          onClick={closeMenu}
-          className={`${linkBaseClasses} ${hoverClasses} ${isActive("/home")}`}
-        >
-          Home
-        </Link>
-        <Link
-          to="/login"
-          onClick={closeMenu}
-          className={`${linkBaseClasses} ${hoverClasses} ${isActive("/login")}`}  
-        >
-          Login 
-        </Link>
-        <Link
-          to="/register"
-          onClick={closeMenu}
-          className={`${linkBaseClasses} ${hoverClasses} ${isActive("/register")}`} 
-        >
-          Register
-        </Link>
-
-      </nav>
+  <Link
+    to="/"
+    onClick={closeMenu}
+    className={`text-white ${linkBaseClasses} ${hoverClasses} ${isActive("/home")}`}
+  >
+    Home
+  </Link>
+  <Link
+    to="/login"
+    onClick={closeMenu}
+    className={`text-white ${linkBaseClasses} ${hoverClasses} ${isActive("/login")}`}  
+  >
+    Login 
+  </Link>
+  <Link
+    to="/register"
+    onClick={closeMenu}
+    className={`text-white ${linkBaseClasses} ${hoverClasses} ${isActive("/register")}`} 
+  >
+    Register
+  </Link>
+</nav>
     </header>
   );
 };

@@ -28,14 +28,14 @@ function Login() {
     e.preventDefault();
     try {
       await axios
-        .get(`${import.meta.env.VITE_API_URL}/users/csrf/`, {
+        .get(`${import.meta.env.VITE_API_URL}/choiceCenter/csrf/`, {
           withCredentials: true,
         })
         .then(() => console.log('CSRF cookie set'))
         .catch((err) => console.error('Failed to set CSRF', err));
 
       await axios.post(
-        `${import.meta.env.VITE_API_URL}/users/login/`,
+        `${import.meta.env.VITE_API_URL}/choiceCenter/login/`,
         {
           email,
           password,
@@ -45,7 +45,7 @@ function Login() {
         }
       );
 
-      navigate('/dashboard');
+      navigate('/admin');
     } catch (err: unknown) {
       if (err) {
         setError(err instanceof Error ? err.message : 'An unexpected error occurred');
@@ -59,7 +59,7 @@ function Login() {
   const handleGoogleSuccess = async (credentialResponse: { credential: string }) => {
     try {
       await axios.post(
-        `${import.meta.env.VITE_API_URL}/users/google-login/`,
+        `${import.meta.env.VITE_API_URL}/choiceCenter/google-login/`,
         { token: credentialResponse.credential },
         { withCredentials: true }
       );
@@ -93,7 +93,7 @@ function Login() {
   }, []);
 
   return (
-    <div className="flex items-center justify-center min-h-screen">
+    <div className="flex items-center justify-center min-h-screen bg-gray-100">
       <div className="bg-white p-8 rounded-lg shadow-lg w-full max-w-md">
         <h2 className="text-2xl font-bold mb-6 text-center">Login</h2>
         {error && <p className="text-red-500 mb-4">{error}</p>}

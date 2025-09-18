@@ -13,12 +13,16 @@ import PrivacyPolicy from "./View/PublicView/Privacy";
 import Login from "./View/PublicView/Login";
 import Register from "./View/PublicView/Register";
 import ForgotPassword from "./View/PublicView/ForgotPassword";
+import Home from "./View/PublicView/Home";
 
 // Admin Pages
 import Dashboard from "./View/Admin/admin_dashboard";
 import { useAppDispatch } from "./redux/hooks";
 import { useEffect } from "react";
 import { fetchUser } from "./redux/userSlice";
+// import TrainingDevelopment from "./components/TrainingDevelopment";
+import PlacementRegistrationForm from "./components/Placment";
+import LandingPage from "./components/PlamentLandingpage";
 
 function App() {
   const dispatch = useAppDispatch();
@@ -37,7 +41,8 @@ function App() {
             <Layout />
           </PublicRoute>
         }>
-          <Route path="/" element={<Login />} />
+          <Route path="/" element={<PlacementRegistrationForm />} />
+          <Route path="/login" element={<LandingPage />} />
           <Route path="/register" element={<Register />} />
           <Route path="/forgot-password" element={<ForgotPassword />} />
           <Route path="/terms" element={<Terms />} />

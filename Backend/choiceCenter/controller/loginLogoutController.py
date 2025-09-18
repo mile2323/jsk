@@ -241,8 +241,10 @@ from rest_framework.permissions import IsAuthenticated
 @authentication_classes([CookieTokenAuthentication])
 @permission_classes([IsAuthenticated])
 def get_current_user(request):
+   
     return Response({
-        'id': str(request.choicecenter.id),
-        'email': request.choicecenter.email,
-        'name': request.choicecenter.username,
+        'id': str(request.user.id),
+        'email': request.user.email,
+        'name': request.user.ChoiceCenterName,
+        'isLogedIn': True
     })
