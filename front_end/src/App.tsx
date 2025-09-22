@@ -1,4 +1,4 @@
-import { BrowserRouter as Router,Routes, Route, Navigate } from "react-router-dom";
+import { BrowserRouter as Router,Routes, Route} from "react-router-dom";
 
 import Layout from "./Layout/Layout";
 import AdminLayout from "./Layout/AdminLayout/AdminLayout";
@@ -10,26 +10,25 @@ import PublicRoute from "./components/PublicRoute"; // ✅ NEW
 import Terms from "./View/PublicView/Terms";
 import PrivacyPolicy from "./View/PublicView/Privacy";
 // import Login from "./View/Login";
-import Login from "./View/PublicView/Login";
+import Login from "./components/adminLogin";
 import Register from "./View/PublicView/Register";
 import ForgotPassword from "./View/PublicView/ForgotPassword";
-import Home from "./View/PublicView/Home";
+// import Home from "./View/PublicView/Home";
 
 // Admin Pages
-import Dashboard from "./View/Admin/admin_dashboard";
-import { useAppDispatch } from "./redux/hooks";
-import { useEffect } from "react";
-import { fetchUser } from "./redux/userSlice";
+// import Dashboard from "./View/Admin/admin_dashboard";
+// import { useAppDispatch } from "./redux/hooks";
+// import { useEffect } from "react";
+// import { fetchUser } from "./redux/userSlice";
 // import TrainingDevelopment from "./components/TrainingDevelopment";
-import PlacementRegistrationForm from "./components/Placment";
+// import PlacementRegistrationForm from "./components/Placment";
 import LandingPage from "./components/PlamentLandingpage";
+import AdminDashboard from "./components/AdminDashboard";
+import FranchiseService from "./components/Franchisetable";
+// import Franchise from "./components/Franchise";
 
 function App() {
-  const dispatch = useAppDispatch();
-
-  useEffect(() => {
-    dispatch(fetchUser());
-  }, [dispatch]);
+  
   return (
     <Router>
       <Routes>
@@ -41,7 +40,7 @@ function App() {
             <Layout />
           </PublicRoute>
         }>
-          <Route path="/" element={<PlacementRegistrationForm />} />
+          <Route path="/" element={<LandingPage />} />
           <Route path="/login" element={<LandingPage />} />
           <Route path="/register" element={<Register />} />
           <Route path="/forgot-password" element={<ForgotPassword />} />
@@ -51,20 +50,21 @@ function App() {
         </Route>
 
         {/* ✅ Admin Routes (Protected) */}
-        <Route
-          path="/admin"
-          element={
-            <ProtectedRoute>
-              <AdminLayout />
-            </ProtectedRoute>
-          }
-        >
-          {/* ✅ Redirect /admin to /admin/dashboard */}
-          <Route index element={<Navigate to="dashboard" replace />} />
 
-          {/* ✅ Use relative path */}
-          <Route path="dashboard" element={<Dashboard />} />
-        </Route>
+        <Route path="/admin/login" element={<Login />} />   {/* relative path */}
+      <Route
+  path="/admin"
+  element={
+    <ProtectedRoute>
+      <AdminLayout />
+    </ProtectedRoute>
+  }
+> 
+<Route path="dashboard" element={<AdminDashboard/>} />
+<Route path="franch" element={<FranchiseService/>} />
+  
+</Route>
+
       </Routes>
     </Router>
 

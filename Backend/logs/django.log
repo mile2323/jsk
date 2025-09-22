@@ -1478,3 +1478,1514 @@ Watching for file changes with StatReloader
 "POST /choiceCenter/login/ HTTP/1.1" 200 31
 "GET /choiceCenter/get-user/ HTTP/1.1" 200 95
 "GET /choiceCenter/get-user/ HTTP/1.1" 200 95
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\Backend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\urls.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\Backend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\urls.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\urls.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2161
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2161
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2161
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2161
+Not Found: /api/placements/registrations/
+"POST /api/placements/registrations/ HTTP/1.1" 404 2171
+F:\Milestone\jsk\Backend\Backend\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/placements/registrations/
+"POST /api/placements/registrations/ HTTP/1.1" 404 2176
+F:\Milestone\jsk\Backend\Backend\urls.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\Backend\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/placements/registrations/
+"POST /api/placements/registrations/ HTTP/1.1" 400 76
+"POST /api/placements/registrations/ HTTP/1.1" 201 438
+F:\Milestone\jsk\Backend\PlacmentService\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/choiceCenter/get-user/
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2165
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2165
+"POST /api/placements/registrations/ HTTP/1.1" 201 450
+Bad Request: /api/placements/registrations/
+"POST /api/placements/registrations/ HTTP/1.1" 400 76
+F:\Milestone\jsk\Backend\PlacmentService\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/placements/registrations/
+"POST /api/placements/registrations/ HTTP/1.1" 400 37
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2165
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2165
+F:\Milestone\jsk\Backend\PlacmentService\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/placements/registrations/
+"POST /api/placements/registrations/ HTTP/1.1" 400 65
+F:\Milestone\jsk\Backend\PlacmentService\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/placements/registrations/
+"POST /api/placements/registrations/ HTTP/1.1" 400 77
+F:\Milestone\jsk\Backend\PlacmentService\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\views.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/placements/registrations/
+"POST /api/placements/registrations/ HTTP/1.1" 400 204
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/placements/registrations/
+Traceback (most recent call last):
+  File "F:\Milestone\jsk\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\Backend\PlacmentService\views.py", line 68, in placement_registration_list
+    if serializer.is_valid():
+       ^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\serializers.py", line 444, in run_validation
+    value = self.to_internal_value(data)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework_mongoengine\serializers.py", line 279, in to_internal_value
+    for field in self._writable_fields:
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\serializers.py", line 380, in _writable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\serializers.py", line 374, in fields
+    for key, value in self.get_fields().items():
+                      ^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework_mongoengine\serializers.py", line 355, in get_fields
+    fields[field_name] = field_class(**field_kwargs)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Field.__init__() got an unexpected keyword argument 'allow_blank'
+"POST /api/placements/registrations/ HTTP/1.1" 500 148909
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/placements/registrations/
+"POST /api/placements/registrations/ HTTP/1.1" 400 204
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/placements/registrations/
+Traceback (most recent call last):
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework_mongoengine\serializers.py", line 162, in create
+    instance = self.recursive_save(validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework_mongoengine\serializers.py", line 262, in recursive_save
+    instance.save()
+  File "F:\Milestone\jsk\venv\Lib\site-packages\mongoengine\document.py", line 422, in save
+    self.validate(clean=clean)
+  File "F:\Milestone\jsk\venv\Lib\site-packages\mongoengine\base\document.py", line 440, in validate
+    raise ValidationError(message, errors=errors)
+mongoengine.errors.ValidationError: ValidationError (PlacementRegistration:None) (Invalid email address: : ['email'])
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Milestone\jsk\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\Backend\PlacmentService\views.py", line 69, in placement_registration_list
+    serializer.save()
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework_mongoengine\serializers.py", line 194, in create
+    raise me_ValidationError(msg)
+mongoengine.errors.ValidationError: Got a `ValidationError` when calling `PlacementRegistration.objects.create()`. This may be because request data satisfies serializer validations but not Mongoengine`s. You may need to check consistency between PlacementRegistration and PlacementRegistrationSerializer.
+If that is not the case, please open a ticket regarding this issue on https://github.com/umutbozkurt/django-rest-framework-mongoengine/issues
+Original exception was: ValidationError (PlacementRegistration:None) (Invalid email address: : ['email'])
+"POST /api/placements/registrations/ HTTP/1.1" 500 165274
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/placements/registrations/
+"POST /api/placements/registrations/ HTTP/1.1" 400 163
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/placements/registrations/
+Traceback (most recent call last):
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework_mongoengine\serializers.py", line 162, in create
+    instance = self.recursive_save(validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework_mongoengine\serializers.py", line 262, in recursive_save
+    instance.save()
+  File "F:\Milestone\jsk\venv\Lib\site-packages\mongoengine\document.py", line 422, in save
+    self.validate(clean=clean)
+  File "F:\Milestone\jsk\venv\Lib\site-packages\mongoengine\base\document.py", line 440, in validate
+    raise ValidationError(message, errors=errors)
+mongoengine.errors.ValidationError: ValidationError (PlacementRegistration:None) (Invalid email address: : ['email'])
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\Milestone\jsk\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\Backend\PlacmentService\views.py", line 69, in placement_registration_list
+    serializer.save()
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Milestone\jsk\venv\Lib\site-packages\rest_framework_mongoengine\serializers.py", line 194, in create
+    raise me_ValidationError(msg)
+mongoengine.errors.ValidationError: Got a `ValidationError` when calling `PlacementRegistration.objects.create()`. This may be because request data satisfies serializer validations but not Mongoengine`s. You may need to check consistency between PlacementRegistration and PlacementRegistrationSerializer.
+If that is not the case, please open a ticket regarding this issue on https://github.com/umutbozkurt/django-rest-framework-mongoengine/issues
+Original exception was: ValidationError (PlacementRegistration:None) (Invalid email address: : ['email'])
+"POST /api/placements/registrations/ HTTP/1.1" 500 164590
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/placements/registrations/
+"POST /api/placements/registrations/ HTTP/1.1" 400 163
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/placements/registrations/
+"POST /api/placements/registrations/ HTTP/1.1" 400 54
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+F:\Milestone\jsk\Backend\PlacmentService\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/placements/registrations/ HTTP/1.1" 201 620
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2165
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2165
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /api/placements/registration
+Not Found: /static/rest_framework/css/bootstrap.min.css
+Not Found: /static/rest_framework/css/prettify.css
+Not Found: /static/rest_framework/css/default.css
+Not Found: /static/rest_framework/js/csrf.js
+Not Found: /static/rest_framework/js/bootstrap.min.js
+Not Found: /static/rest_framework/js/prettify-min.js
+Not Found: /static/rest_framework/js/default.js
+Not Found: /static/rest_framework/js/load-ajax-form.js
+Not Found: /static/rest_framework/js/jquery-3.7.1.min.js
+Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+Not Found: /static/rest_framework/js/ajax-form.js
+Not Found: /static/rest_framework/css/bootstrap.min.css
+Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+Not Found: /static/rest_framework/css/default.css
+Not Found: /static/rest_framework/css/prettify.css
+Not Found: /static/rest_framework/js/jquery-3.7.1.min.js
+Not Found: /static/rest_framework/js/ajax-form.js
+Not Found: /static/rest_framework/js/csrf.js
+Not Found: /static/rest_framework/js/bootstrap.min.js
+Not Found: /static/rest_framework/js/prettify-min.js
+Not Found: /static/rest_framework/js/load-ajax-form.js
+Not Found: /static/rest_framework/js/default.js
+Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+Not Found: /static/rest_framework/css/bootstrap.min.css
+Not Found: /static/rest_framework/css/default.css
+Not Found: /static/rest_framework/css/prettify.css
+Not Found: /static/rest_framework/js/ajax-form.js
+Not Found: /static/rest_framework/js/prettify-min.js
+Not Found: /static/rest_framework/js/jquery-3.7.1.min.js
+Not Found: /static/rest_framework/js/csrf.js
+Not Found: /static/rest_framework/js/bootstrap.min.js
+Not Found: /static/rest_framework/js/default.js
+Not Found: /static/rest_framework/js/load-ajax-form.js
+Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+Not Found: /static/rest_framework/css/bootstrap.min.css
+Not Found: /static/rest_framework/css/default.css
+Not Found: /static/rest_framework/css/prettify.css
+Not Found: /static/rest_framework/js/jquery-3.7.1.min.js
+Not Found: /static/rest_framework/js/ajax-form.js
+Not Found: /static/rest_framework/js/csrf.js
+Not Found: /static/rest_framework/js/bootstrap.min.js
+Not Found: /static/rest_framework/js/default.js
+Not Found: /static/rest_framework/js/prettify-min.js
+Not Found: /static/rest_framework/js/load-ajax-form.js
+Not Found: /static/rest_framework/css/bootstrap.min.css
+Not Found: /static/rest_framework/css/prettify.css
+Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+Not Found: /static/rest_framework/js/jquery-3.7.1.min.js
+Not Found: /static/rest_framework/js/ajax-form.js
+Not Found: /static/rest_framework/css/default.css
+Not Found: /static/rest_framework/js/csrf.js
+Not Found: /static/rest_framework/js/bootstrap.min.js
+Not Found: /static/rest_framework/js/prettify-min.js
+Not Found: /static/rest_framework/js/default.js
+Not Found: /static/rest_framework/js/load-ajax-form.js
+Not Found: /api/choiceCenter/get-user/
+Not Found: /api/choiceCenter/get-user/
+Bad Request: /api/placements/registrations/
+Bad Request: /api/placements/registrations/
+Bad Request: /api/placements/registrations/
+Bad Request: /api/placements/registrations/
+Bad Request: /api/placements/registrations/
+Bad Request: /api/placements/registrations/
+Bad Request: /api/placements/registrations/
+Bad Request: /api/placements/registrations/
+Bad Request: /api/placements/registrations/
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\Backend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\Backend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\PlacmentService\urls.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\Backend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\view\urls.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\Backend\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/view/contact/
+"POST /api/view/contact/ HTTP/1.1" 400 41
+E:\Manzoor\Jsk\Backend\Backend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\Backend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\Backend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/view/contact/
+"POST /api/view/contact/ HTTP/1.1" 400 41
+"POST /api/view/contact/ HTTP/1.1" 201 211
+E:\Manzoor\Jsk\Backend\view\models.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/view/contact/ HTTP/1.1" 201 215
+Watching for file changes with StatReloader
+"OPTIONS /api/view/franchise_inq/ HTTP/1.1" 200 0
+Method Not Allowed: /api/view/franchise_inq/
+"POST /api/view/franchise_inq/ HTTP/1.1" 405 41
+E:\Manzoor\Jsk\Backend\view\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\view\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/view/franchise_inq/
+"POST /api/view/franchise_inq/ HTTP/1.1" 400 41
+E:\Manzoor\Jsk\Backend\view\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\view\models.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/view/franchise_inq/ HTTP/1.1" 201 370
+Bad Request: /api/view/franchise_inq/
+"POST /api/view/franchise_inq/ HTTP/1.1" 400 134
+Bad Request: /api/view/franchise_inq/
+"POST /api/view/franchise_inq/ HTTP/1.1" 400 134
+"POST /api/view/franchise_inq/ HTTP/1.1" 201 453
+Bad Request: /api/view/franchise_inq/
+"POST /api/view/franchise_inq/ HTTP/1.1" 400 134
+Bad Request: /api/view/franchise_inq/
+"POST /api/view/franchise_inq/ HTTP/1.1" 400 87
+"POST /api/view/franchise_inq/ HTTP/1.1" 201 345
+Bad Request: /api/view/franchise_inq/
+"POST /api/view/franchise_inq/ HTTP/1.1" 400 134
+"POST /api/view/franchise_inq/ HTTP/1.1" 201 332
+Bad Request: /api/view/franchise_inq/
+"POST /api/view/franchise_inq/ HTTP/1.1" 400 87
+Bad Request: /api/view/franchise_inq/
+"POST /api/view/franchise_inq/ HTTP/1.1" 400 134
+Bad Request: /api/view/franchise_inq/
+"POST /api/view/franchise_inq/ HTTP/1.1" 400 134
+Bad Request: /api/view/franchise_inq/
+"POST /api/view/franchise_inq/ HTTP/1.1" 400 87
+Bad Request: /api/view/franchise_inq/
+"POST /api/view/franchise_inq/ HTTP/1.1" 400 87
+Bad Request: /api/view/franchise_inq/
+"POST /api/view/franchise_inq/ HTTP/1.1" 400 87
+Bad Request: /api/view/franchise_inq/
+"POST /api/view/franchise_inq/ HTTP/1.1" 400 87
+"POST /api/view/franchise_inq/ HTTP/1.1" 201 308
+E:\Manzoor\Jsk\Backend\view\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\PlacmentService\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\PlacmentService\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+Not Found: /choiceCenter/get-user/
+"GET /choiceCenter/get-user/ HTTP/1.1" 404 2262
+E:\Manzoor\Jsk\Backend\Backend\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/admin/create-admin
+"GET /api/admin/create-admin HTTP/1.1" 404 2464
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2339
+Not Found: /api/admin/create-admin/
+"GET /api/admin/create-admin/ HTTP/1.1" 404 2467
+Not Found: /api/admin/create-admin
+"GET /api/admin/create-admin HTTP/1.1" 404 2464
+Not Found: /api/admin/create-admin/
+"GET /api/admin/create-admin/ HTTP/1.1" 404 2467
+E:\Manzoor\Jsk\Backend\Backend\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/admin/create-admin/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: create_admin_user() takes 0 positional arguments but 1 was given
+"GET /api/admin/create-admin/ HTTP/1.1" 500 70587
+E:\Manzoor\Jsk\Backend\Admin\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/admin/create-admin/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\middleware\clickjacking.py", line 27, in process_response
+    if response.get("X-Frame-Options") is not None:
+       ^^^^^^^^^^^^
+AttributeError: 'Users' object has no attribute 'get'
+"GET /api/admin/create-admin/ HTTP/1.1" 500 73644
+E:\Manzoor\Jsk\Backend\Admin\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\Admin\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /api/admin/create-admin/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\middleware\clickjacking.py", line 27, in process_response
+    if response.get("X-Frame-Options") is not None:
+       ^^^^^^^^^^^^
+AttributeError: 'Users' object has no attribute 'get'
+"GET /api/admin/create-admin/ HTTP/1.1" 500 73644
+E:\Manzoor\Jsk\Backend\Admin\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\Admin\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\Admin\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\Admin\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/create-admin/ HTTP/1.1" 200 10794
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+E:\Manzoor\Jsk\Backend\Admin\urls.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\Admin\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+"OPTIONS /api/admin/login/ HTTP/1.1" 200 0
+"POST /api/admin/login/ HTTP/1.1" 200 263
+"POST /api/admin/login/ HTTP/1.1" 200 263
+E:\Manzoor\Jsk\Backend\view\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\view\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/view/contact-us/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\view\views.py", line 19, in get
+    return Response(serializer.data, status=status.HTTP_200_OK)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 715, in to_representation
+    return [
+           ^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\queryset\queryset.py", line 109, in _iter_results
+    self._populate_cache()
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\queryset\queryset.py", line 128, in _populate_cache
+    self._result_cache.append(next(self))
+                              ^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\queryset\base.py", line 1651, in __next__
+    doc = self._document._from_son(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\base\document.py", line 841, in _from_son
+    obj = cls(__auto_convert=False, _created=created, **data)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\base\document.py", line 99, in __init__
+    raise FieldDoesNotExist(msg)
+mongoengine.errors.FieldDoesNotExist: The fields "{'updated_at'}" do not exist on the document "ContactForms"
+"GET /api/view/contact-us/ HTTP/1.1" 500 138996
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2339
+E:\Manzoor\Jsk\Backend\core\models.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/view/contact-us/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\view\views.py", line 19, in get
+    return Response(serializer.data, status=status.HTTP_200_OK)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 715, in to_representation
+    return [
+           ^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\queryset\queryset.py", line 109, in _iter_results
+    self._populate_cache()
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\queryset\queryset.py", line 128, in _populate_cache
+    self._result_cache.append(next(self))
+                              ^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\queryset\base.py", line 1651, in __next__
+    doc = self._document._from_son(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\base\document.py", line 841, in _from_son
+    obj = cls(__auto_convert=False, _created=created, **data)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\base\document.py", line 99, in __init__
+    raise FieldDoesNotExist(msg)
+mongoengine.errors.FieldDoesNotExist: The fields "{'updated_at'}" do not exist on the document "ContactForms"
+"GET /api/view/contact-us/ HTTP/1.1" 500 139057
+Internal Server Error: /api/view/contact-us/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\view\views.py", line 19, in get
+    return Response(serializer.data, status=status.HTTP_200_OK)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 715, in to_representation
+    return [
+           ^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\queryset\queryset.py", line 109, in _iter_results
+    self._populate_cache()
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\queryset\queryset.py", line 128, in _populate_cache
+    self._result_cache.append(next(self))
+                              ^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\queryset\base.py", line 1651, in __next__
+    doc = self._document._from_son(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\base\document.py", line 841, in _from_son
+    obj = cls(__auto_convert=False, _created=created, **data)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\base\document.py", line 99, in __init__
+    raise FieldDoesNotExist(msg)
+mongoengine.errors.FieldDoesNotExist: The fields "{'updated_at'}" do not exist on the document "ContactForms"
+"GET /api/view/contact-us/ HTTP/1.1" 500 139185
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2339
+E:\Manzoor\Jsk\Backend\core\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/view/contact-us/ HTTP/1.1" 200 12572
+E:\Manzoor\Jsk\Backend\view\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\view\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\view\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/view/contact-us/
+"GET /api/view/contact-us/ HTTP/1.1" 401 11685
+E:\Manzoor\Jsk\Backend\view\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\view\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\view\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\Manzoor\Jsk\Backend\PlacmentService\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+"OPTIONS /api/admin/login/ HTTP/1.1" 200 0
+"POST /api/admin/login/ HTTP/1.1" 200 263
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+"POST /api/admin/login/ HTTP/1.1" 200 263
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+"POST /api/admin/login/ HTTP/1.1" 200 263
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2384
+Watching for file changes with StatReloader
+"OPTIONS /api/admin/login/ HTTP/1.1" 200 0
+"POST /api/admin/login/ HTTP/1.1" 200 263
+"POST /api/admin/login/ HTTP/1.1" 200 263
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+"OPTIONS /api/admin/login/ HTTP/1.1" 200 0
+Unauthorized: /api/admin/login/
+"POST /api/admin/login/ HTTP/1.1" 401 32
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+"POST /api/admin/login/ HTTP/1.1" 200 263
+Unauthorized: /api/view/franchise-inquiry/
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 401 36
+Unauthorized: /api/view/franchise-inquiry/
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 401 36
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Unauthorized: /api/view/franchise-inquiry/
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 401 36
+Unauthorized: /api/view/franchise-inquiry/
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 401 36
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Unauthorized: /api/view/franchise-inquiry/
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 401 36
+Unauthorized: /api/view/franchise-inquiry/
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 401 36
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+E:\Manzoor\Jsk\Backend\PlacmentService\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/view/franchise-inquiry/
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 401 36
+Unauthorized: /api/view/franchise-inquiry/
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 401 36
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Not Found: /api/choiceCenter/get-user/
+"GET /api/choiceCenter/get-user/ HTTP/1.1" 404 2387
+Unauthorized: /api/view/franchise-inquiry/
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 401 36
+Unauthorized: /api/view/franchise-inquiry/
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 401 36
+Unauthorized: /api/view/franchise-inquiry/
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 401 36
+"OPTIONS /api/view/franchise-inquiry/ HTTP/1.1" 200 0
+"OPTIONS /api/view/franchise-inquiry/ HTTP/1.1" 200 0
+Internal Server Error: /api/view/franchise-inquiry/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 437, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 104, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FranchiseInquiry' object has no attribute 'mobile_no'. Did you mean: 'mobile'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\view\views.py", line 42, in get
+    return Response(serializer.data, status=status.HTTP_200_OK)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 527, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 470, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `mobile_no` on serializer `ContactFormSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `FranchiseInquiry` instance.
+Original exception text was: 'FranchiseInquiry' object has no attribute 'mobile_no'.
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 500 135016
+Internal Server Error: /api/view/franchise-inquiry/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 437, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 104, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FranchiseInquiry' object has no attribute 'mobile_no'. Did you mean: 'mobile'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\view\views.py", line 42, in get
+    return Response(serializer.data, status=status.HTTP_200_OK)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 527, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 470, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `mobile_no` on serializer `ContactFormSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `FranchiseInquiry` instance.
+Original exception text was: 'FranchiseInquiry' object has no attribute 'mobile_no'.
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 500 135016
+Internal Server Error: /api/view/franchise-inquiry/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 437, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 104, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FranchiseInquiry' object has no attribute 'mobile_no'. Did you mean: 'mobile'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\view\views.py", line 42, in get
+    return Response(serializer.data, status=status.HTTP_200_OK)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 527, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 470, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `mobile_no` on serializer `ContactFormSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `FranchiseInquiry` instance.
+Original exception text was: 'FranchiseInquiry' object has no attribute 'mobile_no'.
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 500 135016
+Internal Server Error: /api/view/franchise-inquiry/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 437, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 104, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FranchiseInquiry' object has no attribute 'mobile_no'. Did you mean: 'mobile'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\view\views.py", line 42, in get
+    return Response(serializer.data, status=status.HTTP_200_OK)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 527, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 470, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `mobile_no` on serializer `ContactFormSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `FranchiseInquiry` instance.
+Original exception text was: 'FranchiseInquiry' object has no attribute 'mobile_no'.
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 500 135016
+E:\Manzoor\Jsk\Backend\view\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/view/franchise-inquiry/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 437, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 104, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FranchiseInquiry' object has no attribute 'mobile_no'. Did you mean: 'mobile'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\view\views.py", line 42, in get
+    return Response(serializer.data, status=status.HTTP_200_OK)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 527, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 470, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `mobile_no` on serializer `ContactFormSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `FranchiseInquiry` instance.
+Original exception text was: 'FranchiseInquiry' object has no attribute 'mobile_no'.
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 500 135016
+Internal Server Error: /api/view/franchise-inquiry/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 437, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 104, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FranchiseInquiry' object has no attribute 'mobile_no'. Did you mean: 'mobile'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\view\views.py", line 42, in get
+    return Response(serializer.data, status=status.HTTP_200_OK)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 527, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 470, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `mobile_no` on serializer `ContactFormSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `FranchiseInquiry` instance.
+Original exception text was: 'FranchiseInquiry' object has no attribute 'mobile_no'.
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 500 135016
+E:\Manzoor\Jsk\Backend\view\models.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/view/franchise-inquiry/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\view\views.py", line 42, in get
+    return Response(serializer.data, status=status.HTTP_200_OK)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 715, in to_representation
+    return [
+           ^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\queryset\queryset.py", line 109, in _iter_results
+    self._populate_cache()
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\queryset\queryset.py", line 128, in _populate_cache
+    self._result_cache.append(next(self))
+                              ^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\queryset\base.py", line 1651, in __next__
+    doc = self._document._from_son(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\base\document.py", line 841, in _from_son
+    obj = cls(__auto_convert=False, _created=created, **data)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\base\document.py", line 99, in __init__
+    raise FieldDoesNotExist(msg)
+mongoengine.errors.FieldDoesNotExist: The fields "{'mobile'}" do not exist on the document "FranchiseInquiry"
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 500 140026
+Internal Server Error: /api/view/franchise-inquiry/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\view\views.py", line 42, in get
+    return Response(serializer.data, status=status.HTTP_200_OK)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 715, in to_representation
+    return [
+           ^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\queryset\queryset.py", line 109, in _iter_results
+    self._populate_cache()
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\queryset\queryset.py", line 128, in _populate_cache
+    self._result_cache.append(next(self))
+                              ^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\queryset\base.py", line 1651, in __next__
+    doc = self._document._from_son(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\base\document.py", line 841, in _from_son
+    obj = cls(__auto_convert=False, _created=created, **data)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\mongoengine\base\document.py", line 99, in __init__
+    raise FieldDoesNotExist(msg)
+mongoengine.errors.FieldDoesNotExist: The fields "{'mobile'}" do not exist on the document "FranchiseInquiry"
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 500 140026
+E:\Manzoor\Jsk\Backend\view\models.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/view/franchise-inquiry/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 437, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 104, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FranchiseInquiry' object has no attribute 'mobile_no'. Did you mean: 'mobile'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\view\views.py", line 42, in get
+    return Response(serializer.data, status=status.HTTP_200_OK)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 527, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 470, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `mobile_no` on serializer `ContactFormSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `FranchiseInquiry` instance.
+Original exception text was: 'FranchiseInquiry' object has no attribute 'mobile_no'.
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 500 135016
+Internal Server Error: /api/view/franchise-inquiry/
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 437, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 104, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FranchiseInquiry' object has no attribute 'mobile_no'. Did you mean: 'mobile'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Manzoor\Jsk\Backend\view\views.py", line 42, in get
+    return Response(serializer.data, status=status.HTTP_200_OK)
+                    ^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\serializers.py", line 527, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WCD\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\fields.py", line 470, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `mobile_no` on serializer `ContactFormSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `FranchiseInquiry` instance.
+Original exception text was: 'FranchiseInquiry' object has no attribute 'mobile_no'.
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 500 135016
+E:\Manzoor\Jsk\Backend\view\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 200 1814
+"GET /api/view/franchise-inquiry/ HTTP/1.1" 200 1814

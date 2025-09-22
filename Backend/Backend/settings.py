@@ -43,7 +43,9 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework_mongoengine',
     'corsheaders',
-    'choiceCenter',
+    'PlacmentService',
+    'view',
+    'Admin',
 ]
 
 MIDDLEWARE = [
@@ -96,12 +98,7 @@ connect(
 
 # settings.py
 REST_FRAMEWORK = {
-    'DEFAULT_AUTHENTICATION_CLASSES': (
-        'choiceCenter.authentication.CookieTokenAuthentication',
-    ),
-    'DEFAULT_PERMISSION_CLASSES': (
-        'rest_framework.permissions.IsAuthenticated',
-    ),
+    
 }
 
 # Password validation
@@ -110,8 +107,13 @@ REST_FRAMEWORK = {
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
     "http://192.168.1.12:5173",
+    "http://192.168.1.6:5173",
+    
     "http://192.168.1.49:5173",
     "http://182.70.146.46:5173",
+    "http://milestonesofttech.com",
+    "https://milestonesofttech.com",
+
 ]
 CORS_ALLOW_CREDENTIALS = True  # Allow cookies and auth headers
 CSRF_COOKIE_HTTPONLY = False  # Allow frontend JS to read it (since you're using JS to send it)
@@ -119,10 +121,21 @@ CSRF_COOKIE_SAMESITE = 'Lax'
 CSRF_COOKIE_SECURE = False 
 CSRF_TRUSTED_ORIGINS = [
      "http://localhost:5173",
+     "http://localhost:5173",
     "http://192.168.1.12:5173",
     "http://192.168.1.49:5173",
+    "http://192.168.1.6:5173",
+    
     "http://182.70.146.46:5173",
+     "http://milestonesofttech.com",
+    "https://milestonesofttech.com",
+
 ]
+
+# JWT settings
+JWT_SECRET = 'django-insecure-(gegn$ei8o!$(_oysxmzbispu_4t-i44v1v-ls1v@a^-=^w5gq'
+ACCESS_TOKEN_LIFETIME_MINUTES = 10
+REFRESH_TOKEN_LIFETIME_DAYS = 14
  
 DATABASES = {
     'default': {},  # Empty to avoid Django ORM complaints (using MongoEngine)

@@ -3,43 +3,44 @@ from mongoengine import (
     DateField, ListField, DictField, DateTimeField
 )
 import datetime
+from  view.models import BaseDocument
 
 
-class PlacementRegistration(Document):
+class PlacementRegistration(BaseDocument):
     # Photo (store path/URL as string)
-    photo = StringField()
+    photo = StringField(required=False)
 
     # Basic Information
-    post_applied_for = StringField()
-    full_name = StringField()
+    post_applied_for = StringField(required=False)
+    full_name = StringField(required=False)
 
     # Family Information
-    father_name = StringField()
-    mother_name = StringField()
+    father_name = StringField(required=False)
+    mother_name = StringField(required=False)
 
     # Personal Details
-    date_of_birth = DateField()
-    age = StringField()
-    mobile_no = StringField()
-    email = EmailField()
-    marital_status = StringField(choices=("single", "married"))
+    date_of_birth = DateField(required=False)
+    age = StringField(required=False)
+    mobile_no = StringField(required=False)
+    email = EmailField(required=False)
+    marital_status = StringField(choices=("single", "married"),default="single", required=False)
 
     # Address
-    residential_address = StringField()
-    permanent_address = StringField()
+    residential_address = StringField(required=False)
+    permanent_address = StringField(required=False)
 
     # Education (list of dictionaries instead of separate class)
-    education = ListField(DictField())
+    education = ListField(DictField(required=False))
 
     # Professional Experience / Skills
-    skills_description = StringField()
+    skills_description = StringField(required=False)
 
-    # Declaration
-    place = StringField()
+    # # Declaration
+    # place = StringField()
     
 
     # Auto timestamps
-    created_at = DateTimeField(default=datetime.datetime.utcnow)
+    created_at = DateTimeField(default=datetime.datetime.now)
 
     meta = {
         "collection": "placement_registrations"
